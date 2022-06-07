@@ -1,0 +1,287 @@
+[
+    {
+        "word": "가격 더 나가다",
+        "word_root": "가격 더 나가다",
+        "polarity": -1
+    },
+    {
+        "word": "가격 맘 들다",
+        "word_root": "가격 맘 들다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 맘 듭니",
+        "word_root": "가격 맘 듭니",
+        "polarity": 1
+    },
+    {
+        "word": "가격 맘 드네",
+        "word_root": "가격 맘 드네",
+        "polarity": 1
+    },
+    {
+        "word": "가격 마음 안",
+        "word_root": "가격 마음 안",
+        "polarity": -1
+    },
+    {
+        "word": "가격 맘 안",
+        "word_root": "가격 맘 안",
+        "polarity": -1
+    },
+    {
+        "word": "돈 더 나가다",
+        "word_root": "돈 더 나가다",
+        "polarity": -1
+    },
+    {
+        "word": "돈 마음 안",
+        "word_root": "돈 마음 안",
+        "polarity": -1
+    },
+    {
+        "word": "돈 맘 안",
+        "word_root": "돈 맘 안",
+        "polarity": -1
+    },
+    {
+        "word": "돈 맘 들다",
+        "word_root": "돈 맘 들다",
+        "polarity": 1
+    },
+    {
+        "word": "돈 맘 듭니",
+        "word_root": "돈 맘 듭니",
+        "polarity": 1
+    },
+    {
+        "word": "돈 맘 드네",
+        "word_root": "돈 맘 드네",
+        "polarity": 1
+    },
+    {
+        "word": "돈 그저 그렇다",
+        "word_root": "돈 그저 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 돈 원하다",
+        "word_root": "싼 돈 원하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 돈 기대하다",
+        "word_root": "싼 돈 기대하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 돈 바라다",
+        "word_root": "싼 돈 바라다",
+        "polarity": -1
+    },
+    {
+        "word": "거품 뺀 돈",
+        "word_root": "거품 뺀 돈",
+        "polarity": 2
+    },
+    {
+        "word": "돈 비해 좋다",
+        "word_root": "돈 비해 좋다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 더 나가다",
+        "word_root": "금액 더 나가다",
+        "polarity": -1
+    },
+    {
+        "word": "금액 마음 안",
+        "word_root": "금액 마음 안",
+        "polarity": -1
+    },
+    {
+        "word": "금액 맘 안",
+        "word_root": "금액 맘 안",
+        "polarity": -1
+    },
+    {
+        "word": "금액 맘 들다",
+        "word_root": "금액 맘 들다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 맘 듭니",
+        "word_root": "금액 맘 듭니",
+        "polarity": 1
+    },
+    {
+        "word": "금액 맘 드네",
+        "word_root": "금액 맘 드네",
+        "polarity": 1
+    },
+    {
+        "word": "금액 그저 그렇다",
+        "word_root": "금액 그저 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "거품 뺀 금액",
+        "word_root": "거품 뺀 금액",
+        "polarity": 2
+    },
+    {
+        "word": "싼 금액 원하다",
+        "word_root": "싼 금액 원하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 금액 기대하다",
+        "word_root": "싼 금액 기대하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 금액 바라다",
+        "word_root": "싼 금액 바라다",
+        "polarity": -1
+    },
+    {
+        "word": "금액 비해 좋다",
+        "word_root": "금액 비해 좋다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 더 나가다",
+        "word_root": "비용 더 나가다",
+        "polarity": -1
+    },
+    {
+        "word": "비용 마음 안",
+        "word_root": "비용 마음 안",
+        "polarity": -1
+    },
+    {
+        "word": "비용 맘 안",
+        "word_root": "비용 맘 안",
+        "polarity": -1
+    },
+    {
+        "word": "비용 맘 들다",
+        "word_root": "비용 맘 들다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 맘 듭니",
+        "word_root": "비용 맘 듭니",
+        "polarity": 1
+    },
+    {
+        "word": "비용 맘 드네",
+        "word_root": "비용 맘 드네",
+        "polarity": 1
+    },
+    {
+        "word": "비용 그저 그렇다",
+        "word_root": "비용 그저 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "거품 뺀 비용",
+        "word_root": "거품 뺀 비용",
+        "polarity": 2
+    },
+    {
+        "word": "싼 비용 원하다",
+        "word_root": "싼 비용 원하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 비용 기대하다",
+        "word_root": "싼 비용 기대하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 비용 바라다",
+        "word_root": "싼 비용 바라다",
+        "polarity": -1
+    },
+    {
+        "word": "비용 비해 좋다",
+        "word_root": "비용 비해 좋다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 그저 그렇다",
+        "word_root": "가격 그저 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "거품 뺀 가격",
+        "word_root": "거품 뺀 가격",
+        "polarity": 2
+    },
+    {
+        "word": "추가 금액 없이",
+        "word_root": "추가 금액 없이",
+        "polarity": 2
+    },
+    {
+        "word": "추가 비용 없이",
+        "word_root": "추가 비용 없이",
+        "polarity": 2
+    },
+    {
+        "word": "싼 가격 원하다",
+        "word_root": "싼 가격 원하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 가격 기대하다",
+        "word_root": "싼 가격 기대하다",
+        "polarity": -1
+    },
+    {
+        "word": "싼 가격 바라다",
+        "word_root": "싼 가격 바라다",
+        "polarity": -1
+    },
+    {
+        "word": "추가 비용 붙다",
+        "word_root": "추가 비용 붙다",
+        "polarity": -2
+    },
+    {
+        "word": "추가 금액 붙다",
+        "word_root": "추가 금액 붙다",
+        "polarity": -2
+    },
+    {
+        "word": "추가 돈 붙다",
+        "word_root": "추가 돈 붙다",
+        "polarity": -2
+    },
+    {
+        "word": "가격 비해 좋다",
+        "word_root": "가격 비해 좋다",
+        "polarity": 1
+    },
+    {
+        "word": "추가 금액 없다",
+        "word_root": "추가 금액 없다",
+        "polarity": 2
+    },
+    {
+        "word": "추가 비용 없다",
+        "word_root": "추가 비용 없다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 죽도 높다",
+        "word_root": "가격 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "거품 많이 끼다",
+        "word_root": "거품 많이 끼다",
+        "polarity": -2
+    }
+]

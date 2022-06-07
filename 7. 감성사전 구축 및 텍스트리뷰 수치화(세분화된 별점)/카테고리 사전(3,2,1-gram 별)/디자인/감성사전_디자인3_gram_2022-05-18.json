@@ -1,0 +1,302 @@
+[
+    {
+        "word": "디자인 마음 안",
+        "word_root": "디자인 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 맘 안",
+        "word_root": "디자인 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "색상 마음 안",
+        "word_root": "색상 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "색상 맘 안",
+        "word_root": "색상 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 마음 안",
+        "word_root": "색깔 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 맘 안",
+        "word_root": "색깔 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "색감 마음 안",
+        "word_root": "색감 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "색감 맘 안",
+        "word_root": "색감 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 맘 들다",
+        "word_root": "디자인 맘 들다",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 맘 듭니",
+        "word_root": "디자인 맘 듭니",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 맘 드네",
+        "word_root": "디자인 맘 드네",
+        "polarity": 2
+    },
+    {
+        "word": "색상 맘 들다",
+        "word_root": "색상 맘 들다",
+        "polarity": 1
+    },
+    {
+        "word": "색상 맘 듭니",
+        "word_root": "색상 맘 듭니",
+        "polarity": 1
+    },
+    {
+        "word": "색상 맘 드네",
+        "word_root": "색상 맘 드네",
+        "polarity": 1
+    },
+    {
+        "word": "색감 맘 들다",
+        "word_root": "색감 맘 들다",
+        "polarity": 1
+    },
+    {
+        "word": "색감 맘 듭니",
+        "word_root": "색감 맘 듭니",
+        "polarity": 1
+    },
+    {
+        "word": "색감 맘 드네",
+        "word_root": "색감 맘 드네",
+        "polarity": 1
+    },
+    {
+        "word": "색깔 맘 들다",
+        "word_root": "색깔 맘 들다",
+        "polarity": 1
+    },
+    {
+        "word": "색깔 맘 듭니",
+        "word_root": "색깔 맘 듭니",
+        "polarity": 1
+    },
+    {
+        "word": "색깔 맘 드네",
+        "word_root": "색깔 맘 드네",
+        "polarity": 1
+    },
+    {
+        "word": "디자인 맘 들어서다",
+        "word_root": "디자인 맘 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "디자인 마음 들어서다",
+        "word_root": "디자인 마음 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "디자인 쏙 들어서다",
+        "word_root": "디자인 쏙 들어서다",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 죽도 높다",
+        "word_root": "디자인 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 강 추",
+        "word_root": "디자인 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 기대 마시기",
+        "word_root": "디자인 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 기대 이하",
+        "word_root": "디자인 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 기대 달리",
+        "word_root": "디자인 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 기대 말고",
+        "word_root": "디자인 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 안 맞다",
+        "word_root": "디자인 안 맞다",
+        "polarity": -1
+    },
+    {
+        "word": "색감 맘 들어서다",
+        "word_root": "색감 맘 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "색감 마음 들어서다",
+        "word_root": "색감 마음 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "색감 쏙 들어서다",
+        "word_root": "색감 쏙 들어서다",
+        "polarity": 2
+    },
+    {
+        "word": "색감 죽도 높다",
+        "word_root": "색감 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "색감 강 추",
+        "word_root": "색감 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "색감 기대 마시기",
+        "word_root": "색감 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "색감 기대 이하",
+        "word_root": "색감 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "색감 기대 달리",
+        "word_root": "색감 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "색감 기대 말고",
+        "word_root": "색감 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "색상 맘 들어서다",
+        "word_root": "색상 맘 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "색상 마음 들어서다",
+        "word_root": "색상 마음 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "색감 안 맞다",
+        "word_root": "색감 안 맞다",
+        "polarity": -1
+    },
+    {
+        "word": "색상 안 맞다",
+        "word_root": "색상 안 맞다",
+        "polarity": -1
+    },
+    {
+        "word": "색깔 안 맞다",
+        "word_root": "색깔 안 맞다",
+        "polarity": -1
+    },
+    {
+        "word": "색상 쏙 들어서다",
+        "word_root": "색상 쏙 들어서다",
+        "polarity": 2
+    },
+    {
+        "word": "색상 죽도 높다",
+        "word_root": "색상 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "색상 기대 마시기",
+        "word_root": "색상 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "색상 기대 이하",
+        "word_root": "색상 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "색상 기대 달리",
+        "word_root": "색상 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "색상 기대 말고",
+        "word_root": "색상 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "색상 강 추",
+        "word_root": "색상 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "색깔 맘 들어서다",
+        "word_root": "색깔 맘 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "색깔 마음 들어서다",
+        "word_root": "색깔 마음 들어서다",
+        "polarity": 1
+    },
+    {
+        "word": "색깔 쏙 들어서다",
+        "word_root": "색깔 쏙 들어서다",
+        "polarity": 2
+    },
+    {
+        "word": "색깔 죽도 높다",
+        "word_root": "색깔 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "색깔 기대 마시기",
+        "word_root": "색깔 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 기대 이하",
+        "word_root": "색깔 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 기대 달리",
+        "word_root": "색깔 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 기대 말고",
+        "word_root": "색깔 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 강 추",
+        "word_root": "색깔 강 추",
+        "polarity": 2
+    }
+]

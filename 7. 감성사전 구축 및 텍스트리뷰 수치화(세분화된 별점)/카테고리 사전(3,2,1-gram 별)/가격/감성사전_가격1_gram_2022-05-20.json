@@ -1,0 +1,117 @@
+[
+    {
+        "word": "저렴하다",
+        "word_root": "저렴하다",
+        "polarity": 2
+    },
+    {
+        "word": "성비",
+        "word_root": "성비",
+        "polarity": 2
+    },
+    {
+        "word": "싸다",
+        "word_root": "싸다",
+        "polarity": 2
+    },
+    {
+        "word": "비싸다",
+        "word_root": "비싸다",
+        "polarity": -2
+    },
+    {
+        "word": "고가",
+        "word_root": "고가",
+        "polarity": -1
+    },
+    {
+        "word": "부담스럽다",
+        "word_root": "부담스럽다",
+        "polarity": -1
+    },
+    {
+        "word": "갑",
+        "word_root": "갑",
+        "polarity": 2
+    },
+    {
+        "word": "값비싸다",
+        "word_root": "값비싸다",
+        "polarity": -2
+    },
+    {
+        "word": "값나가다",
+        "word_root": "값나가다",
+        "polarity": -1
+    },
+    {
+        "word": "값지다",
+        "word_root": "값지다",
+        "polarity": 2
+    },
+    {
+        "word": "값싸다",
+        "word_root": "값싸다",
+        "polarity": 2
+    },
+    {
+        "word": "디스카운트",
+        "word_root": "디스카운트",
+        "polarity": 1
+    },
+    {
+        "word": "디씨",
+        "word_root": "디씨",
+        "polarity": 1
+    },
+    {
+        "word": "쿠폰",
+        "word_root": "쿠폰",
+        "polarity": 1
+    },
+    {
+        "word": "세일",
+        "word_root": "세일",
+        "polarity": 1
+    },
+    {
+        "word": "할인율",
+        "word_root": "할인율",
+        "polarity": 1
+    },
+    {
+        "word": "공짜",
+        "word_root": "공짜",
+        "polarity": 2
+    },
+    {
+        "word": "무상",
+        "word_root": "무상",
+        "polarity": 2
+    },
+    {
+        "word": "비매품",
+        "word_root": "비매품",
+        "polarity": 2
+    },
+    {
+        "word": "가심",
+        "word_root": "가심",
+        "polarity": 2
+    },
+    {
+        "word": "헐값",
+        "word_root": "헐값",
+        "polarity": 2
+    },
+    {
+        "word": "싼값",
+        "word_root": "싼값",
+        "polarity": 2
+    },
+    {
+        "word": "심비",
+        "word_root": "심비",
+        "polarity": 2
+    }
+]

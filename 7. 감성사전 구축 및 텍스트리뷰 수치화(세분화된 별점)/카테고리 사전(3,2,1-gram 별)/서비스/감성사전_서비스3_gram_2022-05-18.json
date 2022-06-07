@@ -1,0 +1,427 @@
+[
+    {
+        "word": "어 처구니 없다",
+        "word_root": "어 처구니 없다",
+        "polarity": -2
+    },
+    {
+        "word": "배송 마음 안",
+        "word_root": "배송 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "배송 맘 안",
+        "word_root": "배송 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "배송 강 추",
+        "word_root": "배송 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "배송 기대 마시기",
+        "word_root": "배송 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "배송 기대 이하",
+        "word_root": "배송 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "배송 기대 달리",
+        "word_root": "배송 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "배송 기대 말고",
+        "word_root": "배송 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "배송 열 받다",
+        "word_root": "배송 열 받다",
+        "polarity": -2
+    },
+    {
+        "word": "배송 맘 들다",
+        "word_root": "배송 맘 들다",
+        "polarity": 2
+    },
+    {
+        "word": "배송 맘 듭니",
+        "word_root": "배송 맘 듭니",
+        "polarity": 2
+    },
+    {
+        "word": "배송 맘 드네",
+        "word_root": "배송 맘 드네",
+        "polarity": 2
+    },
+    {
+        "word": "배송 엄청 화",
+        "word_root": "배송 엄청 화",
+        "polarity": -2
+    },
+    {
+        "word": "배송 죽도 높다",
+        "word_root": "배송 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "배송 너무 신경",
+        "word_root": "배송 너무 신경",
+        "polarity": -2
+    },
+    {
+        "word": "기사 마음 안",
+        "word_root": "기사 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "기사 맘 안",
+        "word_root": "기사 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "기사 강 추",
+        "word_root": "기사 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "기사 기대 마시기",
+        "word_root": "기사 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "기사 기대 이하",
+        "word_root": "기사 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "기사 기대 달리",
+        "word_root": "기사 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "기사 기대 말고",
+        "word_root": "기사 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "기사 열 받다",
+        "word_root": "기사 열 받다",
+        "polarity": -2
+    },
+    {
+        "word": "기사 맘 들다",
+        "word_root": "기사 맘 들다",
+        "polarity": 2
+    },
+    {
+        "word": "기사 맘 듭니",
+        "word_root": "기사 맘 듭니",
+        "polarity": 2
+    },
+    {
+        "word": "기사 맘 드네",
+        "word_root": "기사 맘 드네",
+        "polarity": 2
+    },
+    {
+        "word": "기사 엄청 화",
+        "word_root": "기사 엄청 화",
+        "polarity": -2
+    },
+    {
+        "word": "기사 죽도 높다",
+        "word_root": "기사 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "기사 너무 신경",
+        "word_root": "기사 너무 신경",
+        "polarity": 1
+    },
+    {
+        "word": "센터 마음 안",
+        "word_root": "센터 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "센터 맘 안",
+        "word_root": "센터 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "센터 강 추",
+        "word_root": "센터 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "센터 기대 마시기",
+        "word_root": "센터 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "센터 기대 이하",
+        "word_root": "센터 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "센터 기대 달리",
+        "word_root": "센터 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "센터 기대 말고",
+        "word_root": "센터 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "센터 열 받다",
+        "word_root": "센터 열 받다",
+        "polarity": -2
+    },
+    {
+        "word": "센터 맘 들다",
+        "word_root": "센터 맘 들다",
+        "polarity": 2
+    },
+    {
+        "word": "센터 맘 듭니",
+        "word_root": "센터 맘 듭니",
+        "polarity": 2
+    },
+    {
+        "word": "센터 맘 드네",
+        "word_root": "센터 맘 드네",
+        "polarity": 2
+    },
+    {
+        "word": "센터 엄청 화",
+        "word_root": "센터 엄청 화",
+        "polarity": -2
+    },
+    {
+        "word": "센터 죽도 높다",
+        "word_root": "센터 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "센터 너무 신경",
+        "word_root": "센터 너무 신경",
+        "polarity": -1
+    },
+    {
+        "word": "직원 마음 안",
+        "word_root": "직원 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "직원 맘 안",
+        "word_root": "직원 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "직원 강 추",
+        "word_root": "직원 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "직원 기대 마시기",
+        "word_root": "직원 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "직원 기대 이하",
+        "word_root": "직원 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "직원 기대 달리",
+        "word_root": "직원 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "직원 기대 말고",
+        "word_root": "직원 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "직원 열 받다",
+        "word_root": "직원 열 받다",
+        "polarity": -2
+    },
+    {
+        "word": "직원 맘 들다",
+        "word_root": "직원 맘 들다",
+        "polarity": 2
+    },
+    {
+        "word": "직원 맘 듭니",
+        "word_root": "직원 맘 듭니",
+        "polarity": 2
+    },
+    {
+        "word": "직원 맘 드네",
+        "word_root": "직원 맘 드네",
+        "polarity": 2
+    },
+    {
+        "word": "직원 엄청 화",
+        "word_root": "직원 엄청 화",
+        "polarity": -2
+    },
+    {
+        "word": "직원 죽도 높다",
+        "word_root": "직원 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "직원 너무 신경",
+        "word_root": "직원 너무 신경",
+        "polarity": 1
+    },
+    {
+        "word": "상담사 마음 안",
+        "word_root": "상담사 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 맘 안",
+        "word_root": "상담사 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 강 추",
+        "word_root": "상담사 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "상담사 기대 마시기",
+        "word_root": "상담사 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 기대 이하",
+        "word_root": "상담사 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 기대 달리",
+        "word_root": "상담사 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 기대 말고",
+        "word_root": "상담사 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 열 받다",
+        "word_root": "상담사 열 받다",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 맘 들다",
+        "word_root": "상담사 맘 들다",
+        "polarity": 2
+    },
+    {
+        "word": "상담사 맘 듭니",
+        "word_root": "상담사 맘 듭니",
+        "polarity": 2
+    },
+    {
+        "word": "상담사 맘 드네",
+        "word_root": "상담사 맘 드네",
+        "polarity": 2
+    },
+    {
+        "word": "상담사 엄청 화",
+        "word_root": "상담사 엄청 화",
+        "polarity": -2
+    },
+    {
+        "word": "상담사 죽도 높다",
+        "word_root": "상담사 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "상담사 너무 신경",
+        "word_root": "상담사 너무 신경",
+        "polarity": 1
+    },
+    {
+        "word": "서비스 마음 안",
+        "word_root": "서비스 마음 안",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 맘 안",
+        "word_root": "서비스 맘 안",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 강 추",
+        "word_root": "서비스 강 추",
+        "polarity": 2
+    },
+    {
+        "word": "서비스 기대 마시기",
+        "word_root": "서비스 기대 마시기",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 기대 이하",
+        "word_root": "서비스 기대 이하",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 기대 달리",
+        "word_root": "서비스 기대 달리",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 기대 말고",
+        "word_root": "서비스 기대 말고",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 열 받다",
+        "word_root": "서비스 열 받다",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 맘 들다",
+        "word_root": "서비스 맘 들다",
+        "polarity": 2
+    },
+    {
+        "word": "서비스 맘 듭니",
+        "word_root": "서비스 맘 듭니",
+        "polarity": 2
+    },
+    {
+        "word": "서비스 맘 드네",
+        "word_root": "서비스 맘 드네",
+        "polarity": 2
+    },
+    {
+        "word": "서비스 엄청 화",
+        "word_root": "서비스 엄청 화",
+        "polarity": -2
+    },
+    {
+        "word": "서비스 죽도 높다",
+        "word_root": "서비스 죽도 높다",
+        "polarity": 2
+    },
+    {
+        "word": "서비스 너무 신경",
+        "word_root": "서비스 너무 신경",
+        "polarity": 1
+    }
+]
