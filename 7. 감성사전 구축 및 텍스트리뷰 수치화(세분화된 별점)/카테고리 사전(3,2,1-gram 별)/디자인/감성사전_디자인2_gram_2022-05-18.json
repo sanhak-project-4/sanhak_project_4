@@ -1,0 +1,482 @@
+[
+    {
+        "word": "비싸 보이다",
+        "word_root": "비싸 보이다",
+        "polarity": 2
+    },
+    {
+        "word": "갑싸다 보이다",
+        "word_root": "갑싸다 보이다",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 완벽하다",
+        "word_root": "디자인 완벽하다",
+        "polarity": 2
+    },
+    {
+        "word": "값지다 보이다",
+        "word_root": "값지다 보이다",
+        "polarity": 2
+    },
+    {
+        "word": "고급지다 보이다",
+        "word_root": "고급지다 보이다",
+        "polarity": 2
+    },
+    {
+        "word": "여유 롭다",
+        "word_root": "여유 롭다",
+        "polarity": 2
+    },
+    {
+        "word": "저렴해 보이다",
+        "word_root": "저렴해 보이다",
+        "polarity": -2
+    },
+    {
+        "word": "싸다 티",
+        "word_root": "싸다 티",
+        "polarity": -2
+    },
+    {
+        "word": "화면 그대로",
+        "word_root": "화면 그대로",
+        "polarity": 1
+    },
+    {
+        "word": "화면과 같은",
+        "word_root": "화면과 같은",
+        "polarity": 1
+    },
+    {
+        "word": "사진 그대로",
+        "word_root": "사진 그대로",
+        "polarity": 1
+    },
+    {
+        "word": "사진과 같은",
+        "word_root": "사진과 같은",
+        "polarity": 1
+    },
+    {
+        "word": "이미지 그대로",
+        "word_root": "이미지 그대로",
+        "polarity": 1
+    },
+    {
+        "word": "사진 똑같다",
+        "word_root": "사진 똑같다",
+        "polarity": 1
+    },
+    {
+        "word": "화면 똑같다",
+        "word_root": "화면 똑같다",
+        "polarity": 1
+    },
+    {
+        "word": "사진 다르다",
+        "word_root": "사진 다르다",
+        "polarity": -2
+    },
+    {
+        "word": "화면 다르다",
+        "word_root": "화면 다르다",
+        "polarity": -2
+    },
+    {
+        "word": "기대 같아요",
+        "word_root": "기대 같아요",
+        "polarity": 2
+    },
+    {
+        "word": "기대한 그대로",
+        "word_root": "기대한 그대로",
+        "polarity": 2
+    },
+    {
+        "word": "너무 밝다",
+        "word_root": "너무 밝다",
+        "polarity": -1
+    },
+    {
+        "word": "많이 밝다",
+        "word_root": "많이 밝다",
+        "polarity": -1
+    },
+    {
+        "word": "너무 어둡다",
+        "word_root": "너무 어둡다",
+        "polarity": -1
+    },
+    {
+        "word": "많이 어둡다",
+        "word_root": "많이 어둡다",
+        "polarity": -1
+    },
+    {
+        "word": "엄청 화",
+        "word_root": "엄청 화",
+        "polarity": -2
+    },
+    {
+        "word": "엄청 쁘네",
+        "word_root": "엄청 쁘네",
+        "polarity": 2
+    },
+    {
+        "word": "안 쁘네",
+        "word_root": "안 쁘네",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 별로",
+        "word_root": "디자인 별로",
+        "polarity": -2
+    },
+    {
+        "word": "따로 놀다",
+        "word_root": "따로 놀다",
+        "polarity": -2
+    },
+    {
+        "word": "실물 영접",
+        "word_root": "실물 영접",
+        "polarity": 2
+    },
+    {
+        "word": "실물 싸다",
+        "word_root": "실물 싸다",
+        "polarity": -2
+    },
+    {
+        "word": "실물 깡패",
+        "word_root": "실물 깡패",
+        "polarity": 2
+    },
+    {
+        "word": "망한 느낌",
+        "word_root": "망한 느낌",
+        "polarity": -2
+    },
+    {
+        "word": "별로 느낌",
+        "word_root": "별로 느낌",
+        "polarity": -1
+    },
+    {
+        "word": "느낌 아니다",
+        "word_root": "느낌 아니다",
+        "polarity": -1
+    },
+    {
+        "word": "느낌 이상하다",
+        "word_root": "느낌 이상하다",
+        "polarity": -1
+    },
+    {
+        "word": "느낌 별로",
+        "word_root": "느낌 별로",
+        "polarity": -1
+    },
+    {
+        "word": "사이즈 여유",
+        "word_root": "사이즈 여유",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 좋다",
+        "word_root": "디자인 좋다",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 괜찮다",
+        "word_root": "디자인 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "색상 괜찮다",
+        "word_root": "색상 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "색깔 괜찮다",
+        "word_root": "색깔 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "색감 괜찮다",
+        "word_root": "색감 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "색상 아니다",
+        "word_root": "색상 아니다",
+        "polarity": -1
+    },
+    {
+        "word": "색깔 아니다",
+        "word_root": "색깔 아니다",
+        "polarity": -1
+    },
+    {
+        "word": "색감 아니다",
+        "word_root": "색감 아니다",
+        "polarity": -1
+    },
+    {
+        "word": "디자인 그렇다",
+        "word_root": "디자인 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "사이즈 맞다",
+        "word_root": "사이즈 맞다",
+        "polarity": 2
+    },
+    {
+        "word": "사이즈 아쉽다",
+        "word_root": "사이즈 아쉽다",
+        "polarity": -2
+    },
+    {
+        "word": "색상 아쉽다",
+        "word_root": "색상 아쉽다",
+        "polarity": -1
+    },
+    {
+        "word": "색깔 아쉽다",
+        "word_root": "색깔 아쉽다",
+        "polarity": -1
+    },
+    {
+        "word": "색감 아쉽다",
+        "word_root": "색감 아쉽다",
+        "polarity": -1
+    },
+    {
+        "word": "크기 적당하다",
+        "word_root": "크기 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "색상 적당하다",
+        "word_root": "색상 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "색깔 적당하다",
+        "word_root": "색깔 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "색감 적당하다",
+        "word_root": "색감 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "사이즈 적당하다",
+        "word_root": "사이즈 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "디자인 좋아하다",
+        "word_root": "디자인 좋아하다",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 만족스럽다",
+        "word_root": "디자인 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "비싸다 보이다",
+        "word_root": "비싸다 보이다",
+        "polarity": 2
+    },
+    {
+        "word": "디자인 나쁘다",
+        "word_root": "디자인 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "색상 달라",
+        "word_root": "색상 달라",
+        "polarity": -1
+    },
+    {
+        "word": "색깔 달라",
+        "word_root": "색깔 달라",
+        "polarity": -1
+    },
+    {
+        "word": "색감 달라",
+        "word_root": "색감 달라",
+        "polarity": -1
+    },
+    {
+        "word": "색상 다르다",
+        "word_root": "색상 다르다",
+        "polarity": -1
+    },
+    {
+        "word": "색깔 다르다",
+        "word_root": "색깔 다르다",
+        "polarity": -1
+    },
+    {
+        "word": "색감 다르다",
+        "word_root": "색감 다르다",
+        "polarity": -1
+    },
+    {
+        "word": "디자인 최악",
+        "word_root": "디자인 최악",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 실패하다",
+        "word_root": "디자인 실패하다",
+        "polarity": -2
+    },
+    {
+        "word": "디자인 훌륭하다",
+        "word_root": "디자인 훌륭하다",
+        "polarity": 2
+    },
+    {
+        "word": "색감 별로",
+        "word_root": "색감 별로",
+        "polarity": -2
+    },
+    {
+        "word": "색감 그렇다",
+        "word_root": "색감 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "색감 좋아하다",
+        "word_root": "색감 좋아하다",
+        "polarity": 2
+    },
+    {
+        "word": "색감 만족스럽다",
+        "word_root": "색감 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "색감 나쁘다",
+        "word_root": "색감 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "색감 최악",
+        "word_root": "색감 최악",
+        "polarity": -2
+    },
+    {
+        "word": "색감 실패하다",
+        "word_root": "색감 실패하다",
+        "polarity": -2
+    },
+    {
+        "word": "색감 훌륭하다",
+        "word_root": "색감 훌륭하다",
+        "polarity": 2
+    },
+    {
+        "word": "색상 별로",
+        "word_root": "색상 별로",
+        "polarity": -2
+    },
+    {
+        "word": "색상 그렇다",
+        "word_root": "색상 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "색상 좋아하다",
+        "word_root": "색상 좋아하다",
+        "polarity": 2
+    },
+    {
+        "word": "색상 만족스럽다",
+        "word_root": "색상 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "색상 나쁘다",
+        "word_root": "색상 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "색상 최악",
+        "word_root": "색상 최악",
+        "polarity": -2
+    },
+    {
+        "word": "색상 실패하다",
+        "word_root": "색상 실패하다",
+        "polarity": -2
+    },
+    {
+        "word": "색상 훌륭하다",
+        "word_root": "색상 훌륭하다",
+        "polarity": 2
+    },
+    {
+        "word": "색깔 별로",
+        "word_root": "색깔 별로",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 그렇다",
+        "word_root": "색깔 그렇다",
+        "polarity": -1
+    },
+    {
+        "word": "색깔 좋아하다",
+        "word_root": "색깔 좋아하다",
+        "polarity": 2
+    },
+    {
+        "word": "색깔 만족스럽다",
+        "word_root": "색깔 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "색깔 나쁘다",
+        "word_root": "색깔 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 최악",
+        "word_root": "색깔 최악",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 실패하다",
+        "word_root": "색깔 실패하다",
+        "polarity": -2
+    },
+    {
+        "word": "색깔 훌륭하다",
+        "word_root": "색깔 훌륭하다",
+        "polarity": 2
+    },
+    {
+        "word": "색상 좋다",
+        "word_root": "색상 좋다",
+        "polarity": 2
+    },
+    {
+        "word": "색깔 좋다",
+        "word_root": "색깔 좋다",
+        "polarity": 2
+    },
+    {
+        "word": "색감 좋다",
+        "word_root": "색감 좋다",
+        "polarity": 2
+    }
+]

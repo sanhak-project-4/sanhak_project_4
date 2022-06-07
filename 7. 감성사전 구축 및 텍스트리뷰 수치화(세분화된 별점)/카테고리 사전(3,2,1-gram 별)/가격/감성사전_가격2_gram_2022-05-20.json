@@ -1,0 +1,1192 @@
+[
+    {
+        "word": "돈 나가다",
+        "word_root": "돈 나가다",
+        "polarity": -2
+    },
+    {
+        "word": "가격 완벽하다",
+        "word_root": "가격 완벽하다",
+        "polarity": 2
+    },
+    {
+        "word": "추가 결제",
+        "word_root": "추가 결제",
+        "polarity": -2
+    },
+    {
+        "word": "추가 금액",
+        "word_root": "추가 금액",
+        "polarity": -2
+    },
+    {
+        "word": "추가 붙다",
+        "word_root": "추가 붙다",
+        "polarity": -2
+    },
+    {
+        "word": "추가 비용",
+        "word_root": "추가 비용",
+        "polarity": -2
+    },
+    {
+        "word": "추가 발생",
+        "word_root": "추가 발생",
+        "polarity": -2
+    },
+    {
+        "word": "추가 운임",
+        "word_root": "추가 운임",
+        "polarity": -2
+    },
+    {
+        "word": "추가 요금",
+        "word_root": "추가 요금",
+        "polarity": -2
+    },
+    {
+        "word": "가격 높다",
+        "word_root": "가격 높다",
+        "polarity": -1
+    },
+    {
+        "word": "따로 돈",
+        "word_root": "따로 돈",
+        "polarity": -2
+    },
+    {
+        "word": "매우 저렴하다",
+        "word_root": "매우 저렴하다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 저렴하다",
+        "word_root": "가격 저렴하다",
+        "polarity": 2
+    },
+    {
+        "word": "더 저렴하다",
+        "word_root": "더 저렴하다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 들어가다",
+        "word_root": "금액 들어가다",
+        "polarity": -2
+    },
+    {
+        "word": "돈 들어가다",
+        "word_root": "돈 들어가다",
+        "polarity": -2
+    },
+    {
+        "word": "돈 쓰이다",
+        "word_root": "돈 쓰이다",
+        "polarity": -2
+    },
+    {
+        "word": "가격 늘어나다",
+        "word_root": "가격 늘어나다",
+        "polarity": -1
+    },
+    {
+        "word": "가격 늘다",
+        "word_root": "가격 늘다",
+        "polarity": -1
+    },
+    {
+        "word": "조금 싸다",
+        "word_root": "조금 싸다",
+        "polarity": 1
+    },
+    {
+        "word": "조금 비싸다",
+        "word_root": "조금 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "조끔 싸다",
+        "word_root": "조끔 싸다",
+        "polarity": 1
+    },
+    {
+        "word": "조끔 비싸다",
+        "word_root": "조끔 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "쪼금 싸다",
+        "word_root": "쪼금 싸다",
+        "polarity": 1
+    },
+    {
+        "word": "쪼금 비싸다",
+        "word_root": "쪼금 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "쪼끔 싸다",
+        "word_root": "쪼끔 싸다",
+        "polarity": 1
+    },
+    {
+        "word": "쪼끔 비싸다",
+        "word_root": "쪼끔 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "다소 비싸다",
+        "word_root": "다소 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "다소 싸다",
+        "word_root": "다소 싸다",
+        "polarity": 1
+    },
+    {
+        "word": "약간 비싸다",
+        "word_root": "약간 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "약간 싸다",
+        "word_root": "약간 싸다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 나가다",
+        "word_root": "가격 나가다",
+        "polarity": -2
+    },
+    {
+        "word": "원 나가다",
+        "word_root": "원 나가다",
+        "polarity": -2
+    },
+    {
+        "word": "원 추가",
+        "word_root": "원 추가",
+        "polarity": -2
+    },
+    {
+        "word": "가격 추가",
+        "word_root": "가격 추가",
+        "polarity": -2
+    },
+    {
+        "word": "돈 추가",
+        "word_root": "돈 추가",
+        "polarity": -2
+    },
+    {
+        "word": "운임 추가",
+        "word_root": "운임 추가",
+        "polarity": -2
+    },
+    {
+        "word": "배송비 추가",
+        "word_root": "배송비 추가",
+        "polarity": -2
+    },
+    {
+        "word": "값 나가다",
+        "word_root": "값 나가다",
+        "polarity": -1
+    },
+    {
+        "word": "요금 추가",
+        "word_root": "요금 추가",
+        "polarity": -2
+    },
+    {
+        "word": "높다 가격 ",
+        "word_root": "높다 가격 ",
+        "polarity": -1
+    },
+    {
+        "word": "비싸다 가격",
+        "word_root": "비싸다 가격",
+        "polarity": -1
+    },
+    {
+        "word": "가격 비싸다",
+        "word_root": "가격 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "값 비싸다",
+        "word_root": "값 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "값 싸다",
+        "word_root": "값 싸다",
+        "polarity": 1
+    },
+    {
+        "word": "싸다 값",
+        "word_root": "싸다 값",
+        "polarity": 1
+    },
+    {
+        "word": "따로 원",
+        "word_root": "따로 원",
+        "polarity": -2
+    },
+    {
+        "word": "원 따로",
+        "word_root": "원 따로",
+        "polarity": -2
+    },
+    {
+        "word": "따로 가격 ",
+        "word_root": "따로 가격 ",
+        "polarity": -2
+    },
+    {
+        "word": "가격 따로",
+        "word_root": "가격 따로",
+        "polarity": -2
+    },
+    {
+        "word": "돈 따로",
+        "word_root": "돈 따로",
+        "polarity": -2
+    },
+    {
+        "word": "가격 좋다",
+        "word_root": "가격 좋다",
+        "polarity": 2
+    },
+    {
+        "word": "좋다 가격",
+        "word_root": "좋다 가격",
+        "polarity": 2
+    },
+    {
+        "word": "가격 부담스럽다",
+        "word_root": "가격 부담스럽다",
+        "polarity": -1
+    },
+    {
+        "word": "성비 갑",
+        "word_root": "성비 갑",
+        "polarity": 2
+    },
+    {
+        "word": "심비 갑",
+        "word_root": "심비 갑",
+        "polarity": 2
+    },
+    {
+        "word": "합리 가격",
+        "word_root": "합리 가격",
+        "polarity": 2
+    },
+    {
+        "word": "가격 합리",
+        "word_root": "가격 합리",
+        "polarity": 2
+    },
+    {
+        "word": "가격 불합리",
+        "word_root": "가격 불합리",
+        "polarity": -1
+    },
+    {
+        "word": "불합리 가격",
+        "word_root": "불합리 가격",
+        "polarity": -1
+    },
+    {
+        "word": "가격 비합리",
+        "word_root": "가격 비합리",
+        "polarity": -1
+    },
+    {
+        "word": "비합리 가격",
+        "word_root": "비합리 가격",
+        "polarity": -1
+    },
+    {
+        "word": "비용 들다",
+        "word_root": "비용 들다",
+        "polarity": -1
+    },
+    {
+        "word": "가격이 섭섭하다",
+        "word_root": "가격이 섭섭하다",
+        "polarity": -1
+    },
+    {
+        "word": "가격 당혹",
+        "word_root": "가격 당혹",
+        "polarity": -1
+    },
+    {
+        "word": "가격 아쉽다 ",
+        "word_root": "가격 아쉽다 ",
+        "polarity": -1
+    },
+    {
+        "word": "가격 무난하다",
+        "word_root": "가격 무난하다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 고렇다",
+        "word_root": "가격 고렇다",
+        "polarity": -1
+    },
+    {
+        "word": "가격 무던하다",
+        "word_root": "가격 무던하다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 적절하다",
+        "word_root": "가격 적절하다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 적합하다",
+        "word_root": "가격 적합하다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 합당하다",
+        "word_root": "가격 합당하다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 알맞다",
+        "word_root": "가격 알맞다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 흐믓하다",
+        "word_root": "가격 흐믓하다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 흡족하다",
+        "word_root": "가격 흡족하다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 별로다",
+        "word_root": "가격 별로다",
+        "polarity": -2
+    },
+    {
+        "word": "가격 그다지",
+        "word_root": "가격 그다지",
+        "polarity": -1
+    },
+    {
+        "word": "성비 없다",
+        "word_root": "성비 없다",
+        "polarity": -2
+    },
+    {
+        "word": "가격 괜찮다",
+        "word_root": "가격 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 아쉽다",
+        "word_root": "가격 아쉽다",
+        "polarity": -1
+    },
+    {
+        "word": "빼다 가격",
+        "word_root": "빼다 가격",
+        "polarity": -1
+    },
+    {
+        "word": "가격 별로",
+        "word_root": "가격 별로",
+        "polarity": -2
+    },
+    {
+        "word": "가격 적당하다",
+        "word_root": "가격 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "가격 만족스럽다",
+        "word_root": "가격 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 문제",
+        "word_root": "가격 문제",
+        "polarity": -2
+    },
+    {
+        "word": "가격 나쁘다",
+        "word_root": "가격 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "가격 최악",
+        "word_root": "가격 최악",
+        "polarity": -2
+    },
+    {
+        "word": "가격 실망",
+        "word_root": "가격 실망",
+        "polarity": -1
+    },
+    {
+        "word": "가격 당황",
+        "word_root": "가격 당황",
+        "polarity": -1
+    },
+    {
+        "word": "가격 착하다",
+        "word_root": "가격 착하다",
+        "polarity": 2
+    },
+    {
+        "word": "가격 감안",
+        "word_root": "가격 감안",
+        "polarity": -1
+    },
+    {
+        "word": "가격 만족도",
+        "word_root": "가격 만족도",
+        "polarity": 2
+    },
+    {
+        "word": "돈 높다",
+        "word_root": "돈 높다",
+        "polarity": -1
+    },
+    {
+        "word": "돈 저렴하다",
+        "word_root": "돈 저렴하다",
+        "polarity": 2
+    },
+    {
+        "word": "돈 늘어나다",
+        "word_root": "돈 늘어나다",
+        "polarity": -1
+    },
+    {
+        "word": "돈 늘다",
+        "word_root": "돈 늘다",
+        "polarity": -1
+    },
+    {
+        "word": "높다 돈 ",
+        "word_root": "높다 돈 ",
+        "polarity": -1
+    },
+    {
+        "word": "비싸다 돈",
+        "word_root": "비싸다 돈",
+        "polarity": -1
+    },
+    {
+        "word": "돈 비싸다",
+        "word_root": "돈 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "따로 돈 ",
+        "word_root": "따로 돈 ",
+        "polarity": -2
+    },
+    {
+        "word": "돈 좋다",
+        "word_root": "돈 좋다",
+        "polarity": 2
+    },
+    {
+        "word": "좋다 돈",
+        "word_root": "좋다 돈",
+        "polarity": 2
+    },
+    {
+        "word": "돈 부담스럽다",
+        "word_root": "돈 부담스럽다",
+        "polarity": -1
+    },
+    {
+        "word": "합리 돈",
+        "word_root": "합리 돈",
+        "polarity": 2
+    },
+    {
+        "word": "돈 합리",
+        "word_root": "돈 합리",
+        "polarity": 2
+    },
+    {
+        "word": "돈 불합리",
+        "word_root": "돈 불합리",
+        "polarity": -1
+    },
+    {
+        "word": "불합리 돈",
+        "word_root": "불합리 돈",
+        "polarity": -1
+    },
+    {
+        "word": "돈 비합리",
+        "word_root": "돈 비합리",
+        "polarity": -1
+    },
+    {
+        "word": "비합리 돈",
+        "word_root": "비합리 돈",
+        "polarity": -1
+    },
+    {
+        "word": "돈이 섭섭하다",
+        "word_root": "돈이 섭섭하다",
+        "polarity": -1
+    },
+    {
+        "word": "돈 당혹",
+        "word_root": "돈 당혹",
+        "polarity": -1
+    },
+    {
+        "word": "돈 아쉽다 ",
+        "word_root": "돈 아쉽다 ",
+        "polarity": -1
+    },
+    {
+        "word": "돈 무난하다",
+        "word_root": "돈 무난하다",
+        "polarity": 1
+    },
+    {
+        "word": "돈 고렇다",
+        "word_root": "돈 고렇다",
+        "polarity": -1
+    },
+    {
+        "word": "돈 무던하다",
+        "word_root": "돈 무던하다",
+        "polarity": 1
+    },
+    {
+        "word": "돈 적절하다",
+        "word_root": "돈 적절하다",
+        "polarity": 1
+    },
+    {
+        "word": "돈 적합하다",
+        "word_root": "돈 적합하다",
+        "polarity": 2
+    },
+    {
+        "word": "돈 합당하다",
+        "word_root": "돈 합당하다",
+        "polarity": 2
+    },
+    {
+        "word": "돈 알맞다",
+        "word_root": "돈 알맞다",
+        "polarity": 1
+    },
+    {
+        "word": "돈 흐믓하다",
+        "word_root": "돈 흐믓하다",
+        "polarity": 2
+    },
+    {
+        "word": "돈 흡족하다",
+        "word_root": "돈 흡족하다",
+        "polarity": 2
+    },
+    {
+        "word": "돈 별로다",
+        "word_root": "돈 별로다",
+        "polarity": -2
+    },
+    {
+        "word": "돈 그다지",
+        "word_root": "돈 그다지",
+        "polarity": -1
+    },
+    {
+        "word": "돈 괜찮다",
+        "word_root": "돈 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "돈 아쉽다",
+        "word_root": "돈 아쉽다",
+        "polarity": -1
+    },
+    {
+        "word": "빼다 돈",
+        "word_root": "빼다 돈",
+        "polarity": -1
+    },
+    {
+        "word": "돈 별로",
+        "word_root": "돈 별로",
+        "polarity": -2
+    },
+    {
+        "word": "돈 적당하다",
+        "word_root": "돈 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "돈 만족스럽다",
+        "word_root": "돈 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "돈 문제",
+        "word_root": "돈 문제",
+        "polarity": -2
+    },
+    {
+        "word": "돈 나쁘다",
+        "word_root": "돈 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "돈 최악",
+        "word_root": "돈 최악",
+        "polarity": -2
+    },
+    {
+        "word": "돈 실망",
+        "word_root": "돈 실망",
+        "polarity": -1
+    },
+    {
+        "word": "돈 당황",
+        "word_root": "돈 당황",
+        "polarity": -1
+    },
+    {
+        "word": "돈 착하다",
+        "word_root": "돈 착하다",
+        "polarity": 2
+    },
+    {
+        "word": "돈 감안",
+        "word_root": "돈 감안",
+        "polarity": -1
+    },
+    {
+        "word": "돈 만족도",
+        "word_root": "돈 만족도",
+        "polarity": 2
+    },
+    {
+        "word": "금액 나가다",
+        "word_root": "금액 나가다",
+        "polarity": -2
+    },
+    {
+        "word": "금액 높다",
+        "word_root": "금액 높다",
+        "polarity": -1
+    },
+    {
+        "word": "따로 금액",
+        "word_root": "따로 금액",
+        "polarity": -2
+    },
+    {
+        "word": "금액 저렴하다",
+        "word_root": "금액 저렴하다",
+        "polarity": 2
+    },
+    {
+        "word": "금액 쓰이다",
+        "word_root": "금액 쓰이다",
+        "polarity": -2
+    },
+    {
+        "word": "금액 늘어나다",
+        "word_root": "금액 늘어나다",
+        "polarity": -1
+    },
+    {
+        "word": "금액 늘다",
+        "word_root": "금액 늘다",
+        "polarity": -1
+    },
+    {
+        "word": "금액 추가",
+        "word_root": "금액 추가",
+        "polarity": -2
+    },
+    {
+        "word": "높다 금액 ",
+        "word_root": "높다 금액 ",
+        "polarity": -1
+    },
+    {
+        "word": "비싸다 금액",
+        "word_root": "비싸다 금액",
+        "polarity": -1
+    },
+    {
+        "word": "금액 비싸다",
+        "word_root": "금액 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "따로 금액 ",
+        "word_root": "따로 금액 ",
+        "polarity": -2
+    },
+    {
+        "word": "금액 따로",
+        "word_root": "금액 따로",
+        "polarity": -2
+    },
+    {
+        "word": "금액 좋다",
+        "word_root": "금액 좋다",
+        "polarity": 2
+    },
+    {
+        "word": "좋다 금액",
+        "word_root": "좋다 금액",
+        "polarity": 2
+    },
+    {
+        "word": "금액 부담스럽다",
+        "word_root": "금액 부담스럽다",
+        "polarity": -1
+    },
+    {
+        "word": "합리 금액",
+        "word_root": "합리 금액",
+        "polarity": 2
+    },
+    {
+        "word": "금액 합리",
+        "word_root": "금액 합리",
+        "polarity": 2
+    },
+    {
+        "word": "금액 불합리",
+        "word_root": "금액 불합리",
+        "polarity": -1
+    },
+    {
+        "word": "불합리 금액",
+        "word_root": "불합리 금액",
+        "polarity": -1
+    },
+    {
+        "word": "금액 비합리",
+        "word_root": "금액 비합리",
+        "polarity": -1
+    },
+    {
+        "word": "비합리 금액",
+        "word_root": "비합리 금액",
+        "polarity": -1
+    },
+    {
+        "word": "금액이 섭섭하다",
+        "word_root": "금액이 섭섭하다",
+        "polarity": -1
+    },
+    {
+        "word": "금액 당혹",
+        "word_root": "금액 당혹",
+        "polarity": -1
+    },
+    {
+        "word": "금액 아쉽다 ",
+        "word_root": "금액 아쉽다 ",
+        "polarity": -1
+    },
+    {
+        "word": "금액 무난하다",
+        "word_root": "금액 무난하다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 고렇다",
+        "word_root": "금액 고렇다",
+        "polarity": -1
+    },
+    {
+        "word": "금액 무던하다",
+        "word_root": "금액 무던하다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 적절하다",
+        "word_root": "금액 적절하다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 적합하다",
+        "word_root": "금액 적합하다",
+        "polarity": 2
+    },
+    {
+        "word": "금액 합당하다",
+        "word_root": "금액 합당하다",
+        "polarity": 2
+    },
+    {
+        "word": "금액 알맞다",
+        "word_root": "금액 알맞다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 흐믓하다",
+        "word_root": "금액 흐믓하다",
+        "polarity": 2
+    },
+    {
+        "word": "금액 흡족하다",
+        "word_root": "금액 흡족하다",
+        "polarity": 2
+    },
+    {
+        "word": "금액 별로다",
+        "word_root": "금액 별로다",
+        "polarity": -2
+    },
+    {
+        "word": "금액 그다지",
+        "word_root": "금액 그다지",
+        "polarity": -1
+    },
+    {
+        "word": "금액 괜찮다",
+        "word_root": "금액 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 아쉽다",
+        "word_root": "금액 아쉽다",
+        "polarity": -1
+    },
+    {
+        "word": "빼다 금액",
+        "word_root": "빼다 금액",
+        "polarity": -1
+    },
+    {
+        "word": "금액 별로",
+        "word_root": "금액 별로",
+        "polarity": -2
+    },
+    {
+        "word": "금액 적당하다",
+        "word_root": "금액 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "금액 만족스럽다",
+        "word_root": "금액 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "금액 문제",
+        "word_root": "금액 문제",
+        "polarity": -2
+    },
+    {
+        "word": "금액 나쁘다",
+        "word_root": "금액 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "금액 최악",
+        "word_root": "금액 최악",
+        "polarity": -2
+    },
+    {
+        "word": "금액 실망",
+        "word_root": "금액 실망",
+        "polarity": -1
+    },
+    {
+        "word": "금액 당황",
+        "word_root": "금액 당황",
+        "polarity": -1
+    },
+    {
+        "word": "금액 착하다",
+        "word_root": "금액 착하다",
+        "polarity": 2
+    },
+    {
+        "word": "금액 감안",
+        "word_root": "금액 감안",
+        "polarity": -1
+    },
+    {
+        "word": "금액 만족도",
+        "word_root": "금액 만족도",
+        "polarity": 2
+    },
+    {
+        "word": "비용 나가다",
+        "word_root": "비용 나가다",
+        "polarity": -2
+    },
+    {
+        "word": "비용 높다",
+        "word_root": "비용 높다",
+        "polarity": -1
+    },
+    {
+        "word": "따로 비용",
+        "word_root": "따로 비용",
+        "polarity": -2
+    },
+    {
+        "word": "비용 괜찮다",
+        "word_root": "비용 괜찮다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 아쉽다",
+        "word_root": "비용 아쉽다",
+        "polarity": -1
+    },
+    {
+        "word": "빼다 비용",
+        "word_root": "빼다 비용",
+        "polarity": -1
+    },
+    {
+        "word": "비용 별로",
+        "word_root": "비용 별로",
+        "polarity": -2
+    },
+    {
+        "word": "비용 적당하다",
+        "word_root": "비용 적당하다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 만족스럽다",
+        "word_root": "비용 만족스럽다",
+        "polarity": 2
+    },
+    {
+        "word": "비용 문제",
+        "word_root": "비용 문제",
+        "polarity": -2
+    },
+    {
+        "word": "비용 나쁘다",
+        "word_root": "비용 나쁘다",
+        "polarity": -2
+    },
+    {
+        "word": "비용 최악",
+        "word_root": "비용 최악",
+        "polarity": -2
+    },
+    {
+        "word": "비용 실망",
+        "word_root": "비용 실망",
+        "polarity": -1
+    },
+    {
+        "word": "비용 당황",
+        "word_root": "비용 당황",
+        "polarity": -1
+    },
+    {
+        "word": "비용 착하다",
+        "word_root": "비용 착하다",
+        "polarity": 2
+    },
+    {
+        "word": "비용 감안",
+        "word_root": "비용 감안",
+        "polarity": -1
+    },
+    {
+        "word": "비용 만족도",
+        "word_root": "비용 만족도",
+        "polarity": 2
+    },
+    {
+        "word": "비용 좋다",
+        "word_root": "비용 좋다",
+        "polarity": 2
+    },
+    {
+        "word": "좋다 비용",
+        "word_root": "좋다 비용",
+        "polarity": 2
+    },
+    {
+        "word": "비용 부담스럽다",
+        "word_root": "비용 부담스럽다",
+        "polarity": -1
+    },
+    {
+        "word": "합리 비용",
+        "word_root": "합리 비용",
+        "polarity": 2
+    },
+    {
+        "word": "비용 합리",
+        "word_root": "비용 합리",
+        "polarity": 2
+    },
+    {
+        "word": "비용 불합리",
+        "word_root": "비용 불합리",
+        "polarity": -1
+    },
+    {
+        "word": "불합리 비용",
+        "word_root": "불합리 비용",
+        "polarity": -1
+    },
+    {
+        "word": "비용 비합리",
+        "word_root": "비용 비합리",
+        "polarity": -1
+    },
+    {
+        "word": "비합리 비용",
+        "word_root": "비합리 비용",
+        "polarity": -1
+    },
+    {
+        "word": "비용이 섭섭하다",
+        "word_root": "비용이 섭섭하다",
+        "polarity": -1
+    },
+    {
+        "word": "비용 당혹",
+        "word_root": "비용 당혹",
+        "polarity": -1
+    },
+    {
+        "word": "비용 아쉽다 ",
+        "word_root": "비용 아쉽다 ",
+        "polarity": -1
+    },
+    {
+        "word": "비용 무난하다",
+        "word_root": "비용 무난하다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 고렇다",
+        "word_root": "비용 고렇다",
+        "polarity": -1
+    },
+    {
+        "word": "비용 무던하다",
+        "word_root": "비용 무던하다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 적절하다",
+        "word_root": "비용 적절하다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 적합하다",
+        "word_root": "비용 적합하다",
+        "polarity": 2
+    },
+    {
+        "word": "비용 합당하다",
+        "word_root": "비용 합당하다",
+        "polarity": 2
+    },
+    {
+        "word": "비용 알맞다",
+        "word_root": "비용 알맞다",
+        "polarity": 1
+    },
+    {
+        "word": "비용 흐믓하다",
+        "word_root": "비용 흐믓하다",
+        "polarity": 2
+    },
+    {
+        "word": "비용 흡족하다",
+        "word_root": "비용 흡족하다",
+        "polarity": 2
+    },
+    {
+        "word": "비용 별로다",
+        "word_root": "비용 별로다",
+        "polarity": -2
+    },
+    {
+        "word": "비용 그다지",
+        "word_root": "비용 그다지",
+        "polarity": -1
+    },
+    {
+        "word": "비용 늘어나다",
+        "word_root": "비용 늘어나다",
+        "polarity": -1
+    },
+    {
+        "word": "비용 늘다",
+        "word_root": "비용 늘다",
+        "polarity": -1
+    },
+    {
+        "word": "비용 추가",
+        "word_root": "비용 추가",
+        "polarity": -2
+    },
+    {
+        "word": "높다 비용 ",
+        "word_root": "높다 비용 ",
+        "polarity": -1
+    },
+    {
+        "word": "비싸다 비용",
+        "word_root": "비싸다 비용",
+        "polarity": -1
+    },
+    {
+        "word": "비용 비싸다",
+        "word_root": "비용 비싸다",
+        "polarity": -1
+    },
+    {
+        "word": "따로 비용 ",
+        "word_root": "따로 비용 ",
+        "polarity": -2
+    },
+    {
+        "word": "비용 따로",
+        "word_root": "비용 따로",
+        "polarity": -2
+    },
+    {
+        "word": "비용 들어가다",
+        "word_root": "비용 들어가다",
+        "polarity": -2
+    },
+    {
+        "word": "비용 쓰이다",
+        "word_root": "비용 쓰이다",
+        "polarity": -2
+    },
+    {
+        "word": "비용 저렴하다",
+        "word_root": "비용 저렴하다",
+        "polarity": 2
+    }
+]
