@@ -4,6 +4,10 @@
 https://yoon990.tistory.com/38
 
 
+### 📁 data
+
+### 📁 test용 sample data
+
 
 ### 1. 크롤링.ipynb
   : 네이버 리뷰페이지 크롤링 코드(100페이지까지)
@@ -86,3 +90,4 @@ https://yoon990.tistory.com/38
    - columns: name(제품명), total(총별점), durability(내구성별점), service(서비스별점), design(디자인별점),   price(가격별점)
   #### visualization
    - columns: name(제품명), wordcloud_negative(부정 워드클라우드), wordcloud_positive(긍정 워드클라우드), star_old(기존 별점 분포 BarChart), star_new(새로운 별점 분포 BarChart), star_new_pie(새로운 별점 분포 PieChart)
+
