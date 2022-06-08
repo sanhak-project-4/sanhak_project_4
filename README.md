@@ -13,92 +13,145 @@
 
 - Framework <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"> 
 
-- Library <img src="https://img.shields.io/badge/scikit learn-F7931E?style=plastic&logo=scikit learn&logoColor=white">  <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">
-
-### 📁 data
-
-### 📁 test용 sample data
+- Library <img src="https://img.shields.io/badge/scikit learn-F7931E?style=plastic&logo=scikit learn&logoColor=white">  <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white">  
+<br/>
+<br/>
 
 
-### 1. 크롤링.ipynb
+
+### 📚 raw data(리뷰 개수_긍정 약 1만개, 부정 약 1만개, 총 약 2만개)  
+
+<br/>
+
+### 📚 data
+  - **total_final(bert).csv** <br/>
+   columns: type(제품명), review(토큰화되지 않은 리뷰_BERT 학습용), star(기존별점), label(기존라벨), new_star(새로운 별점)
+  - **total_final(tokenized).csv** <br/>
+   columns: type(제품명), reviews(토큰화된 리뷰_BERT 외 학습용), label(기존라벨), new_label(tofhdns 라벨), new_star(새로운 별점)
+  - **total_불용어제거_0428.csv** <br/>
+   : 토큰화된 리뷰 모음 (seperator: ',')
+  - **stopwords.txt** <br/>
+   : 불용어 사전
+  - **감성사전_ver_최종2022-04-25_않다 불포함.json** <br/>
+   : 총별점 라벨링용 감성사전 JSON 파일
+  - **카테고리별 감성사전(3,2,1-gram 별)** <br/>
+   : '가격', '내구성', '디자인', '서비스' 카테고리로 세분화된 별점 예측용 1gram, 2gram, 3gram 감성사전 JSON 파일
+  - **Hancom Gothic Bold.ttf** <br/>
+   : 워드클라우드 글씨체
+
+
+
+<br/>
+
+### 📚 test용 sample data(리뷰 개수_180개)
+  - **(final_final)review_test_data_total.csv** <br/>
+   columns: name(제품명), review(리뷰 원본), star(기존 별점), 긍(1)/부정(0)(predict용으로 조원 5인이 직접 읽은 후 합의 하에 부여한 라벨)
+  - **(final_final)review_test_data_total.xlsx** <br/>
+   : 위 csv 파일과 내용 동일   
+   
+<br/>
+
+#### 📄 1. 크롤링.ipynb
   : 네이버 리뷰페이지 크롤링 코드(100페이지까지)
   
   
-  
-### 2. 패딩 근거.ipynb
+<br/>  
+
+#### 📄 2. 패딩 근거.ipynb
   : 패딩 300자 이하로 정한 근거
   
   
-  
-### 3. 전처리1_공백제거_정규화_띄어쓰기_오탈자
+<br/> 
+
+#### 📄 3. 전처리1_공백제거_정규화_띄어쓰기_오탈자.ipynb
   : 공백제거, 정규화, 띄어쓰기, 오탈자 수정 코드
   
   
+<br/>  
+
+#### 📄 4. 전처리2_토큰화_불용어제거_워드클라우드.ipynb
+  : 토큰화, 불용어제거 후 워드클라우드 생성 코드<br/>
   
-### 4. 전처리2_토큰화_불용어제거_워드클라우드
-  : 토큰화, 불용어제거 후 워드클라우드 생성 코드
   
-  
-  
-### 5. 감성사전 구축 및 텍스트리뷰 수치화(총별점)
-  - 감성사전 생성 코드 *감성사전생성_0425.ipynb
-  - 감성사전 JSON 파일 *감성사전_ver_최종2022-04-25_않다 불포함.json
-  - 텍스트리뷰 수치화 코드 *감성사전으로_점수측정_총점.txt
+<br/>  
+
+#### 📁 5. 감성사전 구축 및 텍스트리뷰 수치화(총별점)
+  - 감성사전생성_0425.ipynb<br/> 
+   : 감성사전 생성 코드 
+  - 감성사전으로_점수측정_총점.txt<br/>
+   : 텍스트리뷰 수치화 코드 
 
     
-    
-### 6. 감성분석 모델링
-  - 이진분류(긍부정)
+<br/>   
+
+#### 📁 6. 감성분석 모델링
+  - 📂 이진분류(긍부정)<br/>
    : BERT, KoBERT, CNN+BiLSTM+Attention, GRU+Attention, BiLSTM+Attetion 이진분류모델
-  - 다중분류(5점척도)
+  - 📂 다중분류(5점척도)<br/>
    : BERT, KoBERT, CNN+BiLSTM+Attention, GRU+Attention, BiLSTM+Attetion 다중분류모델
-    + 가중치 저장된 BERT 파일[BERT_trained.pt]    
-    + 직접 data를 input해서 sample data로 사용할 수 있는 predict 파일[BERT_input(middle_test).ipynb]
-    + csv파일 형식을 sample data로 사용할 수 있는 predict 파일[BERT_csv(middle_test).ipynb] 
+  - BERT_trained.pt<br/> 
+   : 가중치 저장된 BERT 파일    
+  - BERT_input(middle_test).ipynb<br/>
+   : 직접 data를 input해서 sample data로 사용할 수 있는 predict 파일
+  - BERT_csv(middle_test).ipynb<br/> 
+   : csv파일 형식을 sample data로 사용할 수 있는 predict 파일 <br/>
 
 
+<br/>
 
-### 7. 감성사전 구축 및 텍스트리뷰 수치화(세분화된 별점)
-  - 카테고리별 감성사전(3,2,1-gram별)
-    : '가격', '내구성', '디자인', '서비스' 카테고리별로 1gram, 2gram, 3gram 감성사전 JSON 파일
-     *가격사전_1gram.JSON, 가격사전_2gram.JSON, 가격사전_3gram.JSON, 내구성사전_1gram.JSON, 내구성사전_2gram.JSON, 내구성사전_3gram.JSON, 디자인사전_1gram.JSON, 디자인사전_2gram.JSON, 디자인사전_3gram.JSON, 서비스사전_1gram.JSON, 서비스사전_2gram.JSON, 서비스사전_3gram.JSON*
-  2) 텍스트리뷰 수치화 코드
-     *세분화된 감성사전으로 점수측정.ipynb*
+#### 📄 7. 세분화된 감성사전으로 텍스트리뷰 수치화(세분화된 별점).ipynb  
+   : '가격', '내구성', '디자인', '서비스'로 세분화된 각 사전 기반 텍스트리뷰 수치화 코드
+    
 
+<br/>
 
-
-### 8. 시각화_WordCloud, BarChart, PieChart
-  1) 시각화 이미지 생성 코드
+#### 📁 8. 시각화_WordCloud, BarChart, PieChart
+  - 📂 시각화 이미지 생성 코드
     : WordCloud 생성 코드, Barchart 생성 코드, PieChart 생성 코드와 mask로 사용되는 bed, closet, desk, sofa, diningtable, livingtable 이미지 파일들 
-  2) 시각화 이미지 전체
+  - 📂 시각화 이미지 전체
     : bed, closet, desk, sofa, diningtable, livingtable의 긍/부정 워드클라우드, BarChart, PieChart
 
 
+<br/>
 
-### 9. 위의 전 과정 실행 후 Elasticsearch, MariaDB로 저장하는 코드
-  [크롤링, 전처리, 별점부여, 시각화 후 Elasticsearch, MariaDB로 저장 전체 코드.py]
+#### 📄 9. (1~8 전 과정)크롤링, 전처리, 별점부여, 시각화 후 Elasticsearch, MariaDB 저장 전체 코드.py
+   : 위의 전 과정 실행 후 Elasticsearch, MariaDB로 저장하는 코드
+ 
+  
+<br/>
 
-### Elasticsearch_document_key
- #### index
+### 🌐 Elasticsearch_document_key
+**- index**<br/>
   : bed / closet / desk / sofa / diningtable / livingtable
- #### type
+  
+ 
+**- type**<br/>
   : document
- #### id
+  
+**- id**<br/>
   : 1부터 순차적으로 부여
- #### spacing_spell_review
+  
+**- spacing_spell_review**<br/>
   : 전처리1_띄어쓰기, 오탈자 수정한 리뷰, 기존 별점, 새로운 별점
- #### token_stopword_review
+  
+**- token_stopword_review**<br/>
   : 전처리2_토큰화, 불용어처리한 리뷰
- ### image
+  
+**- image**<br/>
   : 제품 사진 url
+  
+<br/>
 
-### MariaDB Table
-  #### name 
-   - columns: items(제품군), name(제품명)
-  #### contents
-   - columns: name(제품명), image(제품 사진 링크), summary(베스트리뷰), count(리뷰수)
-  #### star
-   - columns: name(제품명), total(총별점), durability(내구성별점), service(서비스별점), design(디자인별점),   price(가격별점)
-  #### visualization
-   - columns: name(제품명), wordcloud_negative(부정 워드클라우드), wordcloud_positive(긍정 워드클라우드), star_old(기존 별점 분포 BarChart), star_new(새로운 별점 분포 BarChart), star_new_pie(새로운 별점 분포 PieChart)
+### 🐬 MariaDB Table
+**- name** <br/>
+   columns: items(제품군), name(제품명)
+   
+**- contents**<br/>
+   columns: name(제품명), image(제품 사진 링크), summary(베스트리뷰), count(리뷰수)
+
+**- star**<br/>
+   columns: name(제품명), total(총별점), durability(내구성별점), service(서비스별점), design(디자인별점),   price(가격별점)
+
+**- visualization**<br/>
+   columns: name(제품명), wordcloud_negative(부정 워드클라우드), wordcloud_positive(긍정 워드클라우드), star_old(기존 별점 분포 BarChart), star_new(새로운 별점 분포 BarChart), star_new_pie(새로운 별점 분포 PieChart)
 
