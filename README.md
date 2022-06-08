@@ -1,11 +1,19 @@
 # sanhak_project_4
 한양대_머신러닝_산학프로젝트_4조
 
-<div align=center>https://yoon990.tistory.com/38</div>
 
-#### <div align=center>🛠skill</div>
-<div align=center><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></div>
+### <div align=center>🛠skill</div>
+- Language <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> 
 
+- OS <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/CentOS-262577?style=plastic&logo=CentOS&logoColor=white">
+
+- Environment <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=plastic&logo=Google Colab&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=plastic&logo=Microsoft Azure&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=plastic&logo=VirtualBox&logoColor=white">
+
+- Data Ecosystem <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/Elasticsearch-005571?style=plastic&logo=Elasticsearch&logoColor=white"> <img src="https://img.shields.io/badge/Logstash-005571?style=plastic&logo=Logstash&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=Grafana&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white"> 
+
+- Framework <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white">
+
+- Library <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/pandas-150458?style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=NumPy&logoColor=white"> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white"> 
 
 ### 📁 data
 
