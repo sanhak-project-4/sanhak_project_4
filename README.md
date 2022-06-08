@@ -1,7 +1,10 @@
 # sanhak_project_4
 한양대_머신러닝_산학프로젝트_4조
 
-https://yoon990.tistory.com/38
+<div align=center>https://yoon990.tistory.com/38</div>
+
+#### <div align=center>🛠skill</div>
+<div align=center><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></div>
 
 
 ### 📁 data
