@@ -72,7 +72,7 @@
   
 <br/>  
 
-#### 📄 2. 패딩 근거.ipynb
+#### 📄 2. 패딩_근거.ipynb
 &nbsp;   : 패딩 300자 이하로 정한 근거
   
   
@@ -91,7 +91,7 @@
 <br/>  
 
 #### 📁 5. 감성사전 구축 및 텍스트리뷰 수치화(총별점)
-  - 감성사전생성.ipynb<br/> 
+  - 감성사전_생성.ipynb<br/> 
 &nbsp;  : 감성사전 생성 코드 
   - 감성사전으로_텍스트리뷰_수치화(총별점).py<br/>
 &nbsp;  : 텍스트리뷰 점수측정 코드 
@@ -103,13 +103,13 @@
   - 📂 이진분류(긍부정)<br/>
 &nbsp;  : BERT, KoBERT, CNN+BiLSTM+Attention, GRU+Attention, BiLSTM+Attetion 이진분류모델
   - 📂 다중분류(5점척도)<br/>
-&nbsp;  : BERT, KoBERT, CNN+BiLSTM+Attention, GRU+Attention, BiLSTM+Attetion 다중분류모델
-  - BERT_trained.pt<br/> 
-&nbsp;  : 가중치 저장된 BERT 파일    
-  - BERT_input(middle_test).ipynb<br/>
-&nbsp;  : 직접 data를 input해서 sample data로 사용할 수 있는 predict 파일
-  - BERT_csv(middle_test).ipynb<br/> 
-&nbsp;  : csv파일 형식을 sample data로 사용할 수 있는 predict 파일 <br/>
+&nbsp;  : BERT, KoBERT, CNN+BiLSTM+Attention, GRU+Attention, BiLSTM+Attetion 다중분류모델<br/>
+&nbsp;&nbsp;- BERT_trained.pt<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;: 가중치 저장된 BERT 파일<br/>
+&nbsp;&nbsp;- BERT_input(middle_test).ipynb<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;: 직접 data를 input해서 sample data로 사용할 수 있는 predict 파일<br/> 
+&nbsp;&nbsp;- BERT_csv(middle_test).ipynb<br/> 
+&nbsp;&nbsp;&nbsp;&nbsp;: csv파일 형식을 sample data로 사용할 수 있는 predict 파일 <br/>
 
 
 <br/>
@@ -129,8 +129,8 @@
 
 <br/>
 
-#### 📄 9. (1~8 전 과정)크롤링, 전처리, 별점부여, 시각화 후 Elasticsearch, MariaDB 저장 전체 코드.py <br/>
-&nbsp;  : 위의 전 과정 실행 후 Elasticsearch, MariaDB로 저장하는 코드
+#### 📄 9. 전과정(크롤링_전처리_별점부여_시각화_적재).py <br/>
+&nbsp;  : 위의 전 과정(크롤링, 전처리, 별점 부여, 별점분포 시각화) 실행 후 Elasticsearch, MariaDB로 전송하는 코드
  
   
 <br/>
@@ -160,6 +160,7 @@
 <br/>
 
 ### 🦈 MariaDB Table
+
 **- name** <br/>
 &nbsp;  columns: items(제품군), name(제품명)
    
