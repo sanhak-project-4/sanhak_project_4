@@ -122,36 +122,46 @@
 
 ### 🌐 Elasticsearch_document_key
 **- index**<br/>
+
   : bed / closet / desk / sofa / diningtable / livingtable
   
  
 **- type**<br/>
+
   : document
   
 **- id**<br/>
+
   : 1부터 순차적으로 부여
   
 **- spacing_spell_review**<br/>
+
   : 전처리1_띄어쓰기, 오탈자 수정한 리뷰, 기존 별점, 새로운 별점
   
 **- token_stopword_review**<br/>
+
   : 전처리2_토큰화, 불용어처리한 리뷰
   
 **- image**<br/>
+
   : 제품 사진 url
   
 <br/>
 
 ### 🦈 MariaDB Table
 **- name** <br/>
+
    columns: items(제품군), name(제품명)
    
 **- contents**<br/>
+
    columns: name(제품명), image(제품 사진 링크), summary(베스트리뷰), count(리뷰수)
 
 **- star**<br/>
+
    columns: name(제품명), total(총별점), durability(내구성별점), service(서비스별점), design(디자인별점),   price(가격별점)
 
 **- visualization**<br/>
+
    columns: name(제품명), wordcloud_negative(부정 워드클라우드), wordcloud_positive(긍정 워드클라우드), star_old(기존 별점 분포 BarChart), star_new(새로운 별점 분포 BarChart), star_new_pie(새로운 별점 분포 PieChart)
 
