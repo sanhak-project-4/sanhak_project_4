@@ -27,7 +27,7 @@
 <br/>
 
 ### 📚 data(리뷰 개수_raw data와 동일)
-  - **total_final(bert).csv** <br/>
+  - **total_final.csv** <br/>
 &nbsp;  columns: type(제품명), review(토큰화되지 않은 리뷰_BERT 학습용), star(기존별점), label(기존라벨), new_star(새로운 별점)
   - **total_final(tokenized).csv** <br/>
 &nbsp;  columns: type(제품명), reviews(토큰화된 리뷰_BERT 외 학습용), label(기존라벨), new_label(tofhdns 라벨), new_star(새로운 별점)
