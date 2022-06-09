@@ -142,7 +142,7 @@
   
 <br/>
 
-### 🐬 MariaDB Table
+### 🦈 MariaDB Table
 **- name** <br/>
    columns: items(제품군), name(제품명)
    
