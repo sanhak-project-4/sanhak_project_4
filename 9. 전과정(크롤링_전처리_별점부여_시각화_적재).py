@@ -31,7 +31,6 @@ import csv
 from collections import Counter, defaultdict
 from scipy.sparse import csr_matrix
 from sklearn.preprocessing import normalize
-from konlpy.tag import Okt
 from textrank import KeywordSummarizer, KeysentenceSummarizer
 import numpy as np
 import math
@@ -362,7 +361,7 @@ class KnuSL():
 
 '''---------------------------------------가격 사전------------------------------------------'''
 
-q = '감성사전_가격3_gram_2022-05-20.json'
+q = 'sentiment_dictionary_price_3gram.json'
 n = 0
 
 ksl = KnuSL   
@@ -408,7 +407,7 @@ for i in rdr:
     포함여부리스트_3.append(p)
 
 
-q = '감성사전_가격2_gram_2022-05-20.json'
+q = 'sentiment_dictionary_price_2gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -450,7 +449,7 @@ for i in rdr:
     포함여부리스트_2.append(p)
 
 
-q = '감성사전_가격1_gram_2022-05-20.json'
+q = 'sentiment_dictionary_price_1gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -527,7 +526,7 @@ except:
 
 '''-------------------------------------------내구성 사전--------------------------------------'''
 
-q = '감성사전_내구성3_gram_2022-05-18.json'
+q = 'sentiment_dictionary_durability_3gram.json'
 n = 0
 
 ksl = KnuSL   
@@ -573,7 +572,7 @@ for i in rdr:
     포함여부리스트_3.append(p)
 
 
-q = '감성사전_내구성2_gram_2022-05-18.json'
+q = 'sentiment_dictionary_durability_2gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -615,7 +614,7 @@ for i in rdr:
     포함여부리스트_2.append(p)
 
 
-q = '감성사전_내구성1_gram_2022-05-18.json'
+q = 'sentiment_dictionary_durability_1gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -692,7 +691,7 @@ except:
 
 '''-------------------------------------------디자인 사전--------------------------------------'''
 
-q = '감성사전_디자인3_gram_2022-05-18.json'
+q = 'sentiment_dictionary_design_3gram.json'
 n = 0
 
 ksl = KnuSL   
@@ -738,7 +737,7 @@ for i in rdr:
     포함여부리스트_3.append(p)
 
 
-q = '감성사전_디자인2_gram_2022-05-18.json'
+q = 'sentiment_dictionary_design_2gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -780,7 +779,7 @@ for i in rdr:
     포함여부리스트_2.append(p)
 
 
-q = '감성사전_디자인1_gram_2022-05-18.json'
+q = 'sentiment_dictionary_design_1gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -858,7 +857,7 @@ except:
 
 '''-------------------------------------------서비스 사전--------------------------------------'''
 
-q = '감성사전_서비스3_gram_2022-05-18.json'
+q = 'sentiment_dictionary_service_3gram.json'
 n = 0
 
 ksl = KnuSL   
@@ -904,7 +903,7 @@ for i in rdr:
     포함여부리스트_3.append(p)
 
 
-q = '감성사전_서비스2_gram_2022-05-18.json'
+q = 'sentiment_dictionary_service_2gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -946,7 +945,7 @@ for i in rdr:
     포함여부리스트_2.append(p)
 
 
-q = '감성사전_서비스1_gram_2022-05-18.json'
+q = 'sentiment_dictionary_service_1gram.json'
 n = 0
 
 # ksl = KnuSL   
@@ -1035,7 +1034,7 @@ maria_items_star['price'] = category_star(price_score)
 tokenizer = BertTokenizer.from_pretrained('klue/bert-base', do_lower_case=False)
 model2 =  BertForSequenceClassification.from_pretrained("klue/bert-base", num_labels=5)
 # model2.load_state_dict(torch.load('bert_model_ver2_st_0505.pt'))
-model2.load_state_dict(torch.load('bert_model_ver2(77)_st_0505.pt',map_location=torch.device('cpu')))
+model2.load_state_dict(torch.load('BERT_trained.pt',map_location=torch.device('cpu')))
 device = torch.device("cpu")
 model2.to(device)
 def convert_input_data(sentences):
