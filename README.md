@@ -21,22 +21,22 @@
 
 
 ### 📚 raw data(리뷰 개수_긍정 약 1만개, 부정 약 1만개, 총 약 2만개)  
-  : 침대, 장롱, 식탁, 거실장, 소파, 책상 총 6개 상품군에 대하여 크롤링 <br/>
-&nbsp;  기존 별점 4, 5점을 긍정(10,888개)으로, 기존 별점 1, 2, 3점을 부정(10,421개)으로 분류
+&nbsp; : 침대, 장롱, 식탁, 거실장, 소파, 책상 총 6개 상품군에 대하여 크롤링 <br/>
+&nbsp; : 기존 별점 4, 5점을 긍정(10,888개)으로, 기존 별점 1, 2, 3점을 부정(10,421개)으로 분류
 
 <br/>
 
 ### 📚 data(리뷰 개수_raw data와 동일)
   - **total_final.csv** <br/>
-&nbsp;  columns: type(제품명), review(토큰화되지 않은 리뷰_BERT 학습용), star(기존별점), label(기존라벨), new_star(새로운 별점)
+&nbsp;columns: type(제품명), review(토큰화되지 않은 리뷰_BERT 학습용), star(기존별점), label(기존라벨), new_star(새로운 별점)
   - **total_final(tokenized).csv** <br/>
-&nbsp;  columns: type(제품명), reviews(토큰화된 리뷰_BERT 외 학습용), label(기존라벨), new_label(tofhdns 라벨), new_star(새로운 별점)
+&nbsp;columns: type(제품명), reviews(토큰화된 리뷰_BERT 외 학습용), label(기존라벨), new_label(tofhdns 라벨), new_star(새로운 별점)
   - **total_tokenized_review.csv** <br/>
-&nbsp;  : 토큰화된 리뷰 모음 (seperator: ',')
+&nbsp;: 토큰화된 리뷰 모음 (seperator: ',')
   - **stopwords.txt** <br/>
-&nbsp;  : 불용어 사전
+&nbsp;: 불용어 사전
   - **sentiment_dictionary_total.json** <br/>
-&nbsp;  : 총별점 라벨링용 감성사전 JSON 파일
+&nbsp;: 총별점 라벨링용 감성사전 JSON 파일
   - 📁 **카테고리별 감성사전(3,2,1-gram 별)** <br/>
 &nbsp;  : '가격', '내구성', '디자인', '서비스' 카테고리로 세분화된 별점 예측용 1gram, 2gram, 3gram 감성사전 JSON 파일<br/>
 &nbsp;&nbsp;- sentiment_dictionary_price_3gram.json<br/>
@@ -60,9 +60,9 @@
 
 ### 📚 test용 sample data(리뷰 개수_180개)
   - **test_data.csv** <br/>
-&nbsp;  columns: name(제품명), review(리뷰 원본), star(기존 별점), 긍(1)/부정(0)(predict용으로 조원 5인이 직접 읽은 후 합의 하에 부여한 라벨)
+&nbsp;columns: name(제품명), review(리뷰 원본), star(기존 별점), 긍(1)/부정(0)(predict용으로 조원 5인이 직접 읽은 후 합의 하에 부여한 라벨)
   - **test_data.xlsx** <br/>
-&nbsp;  : 위 csv 파일과 내용 동일   
+&nbsp;: 위 csv 파일과 내용 동일   
    
 <br/>
 
@@ -92,9 +92,9 @@
 
 #### 📁 5. 감성사전 구축 및 텍스트리뷰 수치화(총별점)
   - 감성사전_생성.ipynb<br/> 
-&nbsp;  : 감성사전 생성 코드 
+&nbsp;: 감성사전 생성 코드 
   - 감성사전으로_텍스트리뷰_수치화(총별점).py<br/>
-&nbsp;  : 텍스트리뷰 점수측정 코드 
+&nbsp;: 텍스트리뷰 점수측정 코드 
 
     
 <br/>   
