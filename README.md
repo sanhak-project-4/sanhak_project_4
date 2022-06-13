@@ -108,7 +108,7 @@
   - 📂 이진분류(긍부정)<br/>
 &nbsp;  : BERT, KoBERT, CNN+BiLSTM+Attention, GRU+Attention, BiLSTM+Attetion 이진분류모델
   - 📂 다중분류(5점척도)<br/>
-&nbsp;  : BERT, KoBERT, CNN+BiLSTM+Attention, GRU+Attention, BiLSTM+Attetion 다중분류모델<br/>
+&nbsp;  : BERT, CNN+BiLSTM+Attention 다중분류모델<br/>
 &nbsp;&nbsp;- BERT_trained.pt<br/> 
 &nbsp;&nbsp;&nbsp;&nbsp;: 가중치 저장된 BERT 파일<br/>
 &nbsp;&nbsp;- BERT_input(middle_test).ipynb<br/>
