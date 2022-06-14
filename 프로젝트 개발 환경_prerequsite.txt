@@ -1,0 +1,58 @@
+[파이프라인 구성 패키지 버전] 
+1. Logstash:  7.17
+2. Elasticsearch: 7.17
+3. MariaDB: 10.4.24
+4. Grafana: 8.5.3
+5. Prometheus: 2.35.0
+6. Django 2.1.15
+
+[모델 실행시 필요한 라이브러리]
+1. pip - 21.3.1
+$ pip3 install --upgrade pip
+
+2. python-devel 
+ $ yum install python3-devel
+
+3. python - 3.6.8
+(기본 설정)
+
+4. transformsers - 4.4.0
+$ pip3 install transformers==4.4.0
+
+5. tensorflow - 2.6.2
+ $ pip3 install --upgrade tensorflow  
+
+6. sklearn - 0.24.2 
+ $ pip3 install sklearn
+
+7. pandas - 1.1.5 
+ $ pip3 install pandas
+
+8. numpy - 1.19.5 
+ $ pip3 install numpy
+
+9. keras - 2.6.0  
+ $ pip3 install keras
+
+10. torch - 1.10.2   
+ $ pip3 install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cpu
+
+11. pykospacing - 0.5
+ $ pykospacing install pykospacing
+
+12. hanspell -1.1
+ $ pip3 install git+https://github.com/ssut/py-hanspell.git
+
+13. soynlp - 0.0.493
+ $ pip3 install soynlp
+
+14. KoNLPy - 0.6.0
+ $ pip3 install konlpy
+
+14. elasticsearch - 8.2.0
+ $ pip3 install elasticsearch
+
+15. textrank - 0.1.2
+ $ git clone https://github.com/lovit/textrank.git
+ $ cd textrank
+ $ pyhon3 setup.py install

@@ -1,0 +1,131 @@
+{% load static %}
+<link rel="stylesheet"  type = 'text/css' href="{% static 'bootstrap.min.css' %}">
+
+
+
+    
+<div style ="text-align:center";>
+    
+    <img src = "data:image/png;base64,{{star_old}}" style="width: 33vw; min-width: 140px;">
+    
+    <img src = "data:image/png;base64,{{star_new}}" style="width: 33vw; min-width: 140px;">
+</div>
+<!-- <img src = "data:image/png;base64,{{star_old}}">
+      
+
+     
+<img src = "data:image/png;base64,{{star_new}}"> -->
+        
+
+
+    
+
+
+
+
+<!-- <img src="data:image/png;base64,{{star_old}}">
+<img src = "data:image/png;base64,{{star_new}}" -->
+
+
+<div class="container my-3">
+  <table class="table">
+      <thead>
+      <tr class="table-dark">
+          <th>번호</th>
+          <th>리뷰</th>
+          <th>기존별점</th>
+          <th>새로운 별점</th>
+      </tr>
+      </thead>
+      <tbody>
+      {% if review_list %}
+      {% for question in review_list %}
+      <tr>
+          <td>{{ forloop.counter }}</td>
+          <td>
+              {{question.0}}
+          </td>
+          <td>{{question.1}}</td>
+          <td>{{question.2}}</td>
+          
+      </tr>
+      {% endfor %}
+      {% else %}
+      <tr>
+          <td colspan="3">질문이 없습니다.</td>
+      </tr>
+      {% endif %}
+      </tbody>
+  </table>
+</div>
+<script>
+    $.ajaxSetup({
+      headers: { "X-CSRFToken": '{{csrf_token}}' }
+    });
+  </script>
+<body>
+<!-- <div class="form__group field">
+    <input type="input" class="form__field" placeholder="Name" name="name" id='name' required />
+    <label for="name" class="form__label">Name</label>
+  </div> -->
+
+  <!-- <div class="Wrapper">
+    <h1 class="Title">리뷰 별점 예측</h1>
+    <div class="Input">
+        <form method = 'get' action="http://127.0.0.1:8000/post/predict/">
+      <input type="text" id="input" class="Input-text" placeholder="리뷰 입력창" name = 're'>
+      
+      <p><input type= "submit" value="입력"></p>
+      
+    </form>
+    </div>
+  </div> -->
+<!-- {% block content %}
+  {% for i in review_list%}
+<h5>리뷰 : {{i.0}}</h5>
+<h5>별점 : {{i.1}}</h5>
+{% endfor %} -->
+<!-- {% for i in star_list%}
+<h2>별점 : {{i}}</h2>
+{% endfor %} -->
+    <!-- 페이징처리 시작 -->
+    <ul class="pagination justify-content-center">
+        <!-- 이전페이지 -->
+        {% if review_list.has_previous %}
+        <li class="page-item">
+            <a class="page-link" href="?page={{ review_list.previous_page_number }}">이전</a>
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+            <a class="page-link" tabindex="-1" aria-disabled="true" href="#">이전</a>
+        </li>
+        {% endif %}
+        <!-- 페이지리스트 -->
+        {% for page_number in review_list.paginator.page_range %}
+        {% if page_number >= review_list.number|add:-5 and page_number <= review_list.number|add:5 %}
+        {% if page_number == review_list.number %}
+        <li class="page-item active" aria-current="page">
+            <a class="page-link" href="?page={{ page_number }}">{{ page_number }}</a>
+        </li>
+        {% else %}
+        <li class="page-item">
+            <a class="page-link" href="?page={{ page_number }}">{{ page_number }}</a>
+        </li>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        <!-- 다음페이지 -->
+        {% if review_list.has_next %}
+        <li class="page-item">
+            <a class="page-link" href="?page={{ review_list.next_page_number }}">다음</a>
+        </li>
+        {% else %}
+        <li class="page-item disabled">
+            <a class="page-link" tabindex="-1" aria-disabled="true" href="#">다음</a>
+        </li>
+        {% endif %}
+    </ul>
+    <!-- 페이징처리 끝 -->
+
+</body>
+{% endblock %}

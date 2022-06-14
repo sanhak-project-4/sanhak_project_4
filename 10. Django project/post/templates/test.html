@@ -1,0 +1,84 @@
+<head>
+     <meta charset="utf-8">
+</head>
+
+<h1>{{name}}</h1>
+
+
+
+<div style="border: 1px solid black; float: left; width: 50%;">
+<img class="fit-picture"
+     src={{image}}
+     alt="Grapefruit slice atop a pile of other slices">
+</div>
+
+
+<div style="border: 1px solid black; float: left; width: 50%;">
+
+     <h3>총점 : {{star}} </h3>
+     <h3>디자인 : {{design}} </h3>
+     <h3>내구성 : {{durability}} </h3>
+     <h3>가격 : {{price}} </h3>
+     <h3>배송 : {{service}} </h3>  
+
+<h3>부정리뷰 : {{review}}</h3>
+<h3>긍정리뷰 : {{review_p}}</h3>
+
+</div>
+
+
+<!-- <div id = 'image1'>
+<img alt = 'image1',id='image1'>
+</div>
+
+<div id="image2">
+     <img  alt = 'image2',id='image2'>
+     </div> -->
+<!-- <script type="text/javascript">
+const data = "{{graph}}" 
+
+let blob = new Blob([new ArrayBuffer(data)], { type: "image/jpeg" });
+
+// const url = window.URL.createObjectURL(blob); // blob:http://localhost:1234/28ff8746-94eb-4dbe-9d6c-2443b581dd30
+
+const url = window.URL.createObjectURL(blob);
+console.log(url);
+// function alertDialogBox() {
+// alert(url);
+// }
+
+const img = document.getElementById("image1");
+data_2 = 'data:image/png;base64,' + data;
+img.src= data_2;
+console.log(data_2);
+
+const img2 = document.getElementById("image2");
+img2.src= url;
+
+
+// canvas.toBlob(function(blob) {
+// 	var reader = new FileReader();
+// 	reader.onload = function(e) {
+// 		document.getElementById('image_l1').src = reader.result;
+// 	}
+// 	reader.readAsDataURL(blob);
+// }
+</script> -->
+<!-- <img class = 'new_graph' src = {{graph}} alt = 'graph_pie'> -->
+<!-- <img src="data:image/png;base64, {{graph}}"> -->
+<img src="data:image/png;base64,{{wordcloud_p}}">
+<img src = "data:image/png;base64,{{wordcloud_n}}">
+
+
+
+<div class="Wrapper">
+     <h1 class="Title">리뷰 별점 예측</h1>
+     <div class="Input">
+         <form method = 'get' action="http://127.0.0.1:8000/post/predict/">
+       <input type="text" id="input" class="Input-text" placeholder="리뷰 입력창" name = 're'>
+       <!-- <label for="input" class="Input-label">First name</label> -->
+       <p><input type= "submit" value="입력"></p>
+       <!-- <div class="text-center"><a class="btn btn-outline-dark mt-auto" href="/post/detail">입력</a></div> -->
+     </form>
+     </div>
+   </div>

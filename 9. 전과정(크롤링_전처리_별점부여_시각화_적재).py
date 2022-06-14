@@ -123,13 +123,13 @@ def category_star(score):
     if score < -2:
         return('⭐')
 
-    elif score < 0:
+    elif score < -0.5:
         return('⭐⭐')
 
-    elif score < 1:
+    elif score <= 0.5:
         return('⭐⭐⭐')
 
-    elif score < 2:
+    elif score <= 2:
         return('⭐⭐⭐⭐')
 
     else :
