@@ -145,17 +145,17 @@
   - 📂 config<br/>
 &nbsp;  : settings.py, urls.py 등 Django project 전체 설정파일
   - 📂 common<br/>
-&nbsp;  : 
+&nbsp;  : 로그인 관련 기능 앱 (로그인, 로그아웃 등)
   - 📂 post<br/>
-&nbsp;  : 
+&nbsp;  : 분석 페이지, 리뷰 페이지 기능 앱(제품에 대한 정보, 분셕 결과, 모델 예측, 리뷰 데이터 등)
   - 📂 static<br/>
-&nbsp;  : 
+&nbsp;  : css, java script 설정 파일
   - 📂 pycache<br/>
-&nbsp;  : 
+&nbsp;  : 컴파일되어 실행 준비가 된 Python 3 바이트 코드를 포함하는 폴더
   - 📄 manage.py<br/>
-&nbsp;  : 
+&nbsp;  : Django 프로젝트와 다양한 방법으로 상호작용 하는 커맨드라인의 유틸리티
   - 📄 db.sqlite3<br/>
-&nbsp;  : 
+&nbsp;  : Django SQLlite 기본 파일
 
 
 <br/>
